@@ -78,8 +78,8 @@
   max-width: 60%;
   height: auto;
   margin: 20%;
-  -webkit-filter: blue(100%);
-          filter: blue(100%);
+  -webkit-filter: grayscale(100%);
+          filter: grayscale(100%);
 }
 .timeline .event .date {
   font-weight: 700;
